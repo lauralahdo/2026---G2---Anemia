@@ -17,7 +17,7 @@
 | **Group**           | TRA460_Group_X                             |
 | **Version**         | 1.0                                        |
 | **Date**            | 2026-04-17                                |
-| **Clinical Mentor** | [Lena Von Bahr, Title, Affiliation]                 |
+| **Clinical Mentor** | [Lena Von Bahr, anemia, Affiliation]                 |
 | **Group Members**   | [Name (Program), Name (Program), ...]      |
 
 ---
